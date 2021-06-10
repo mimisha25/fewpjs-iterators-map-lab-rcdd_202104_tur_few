@@ -22,6 +22,6 @@ const titleCased = () => {
    }).join(' ');
  }
 
- function titleCased() { 
+ function titleCased() {
    return tutorials.map(tutorial => titleCase(tutorial));
- } 
+ }
